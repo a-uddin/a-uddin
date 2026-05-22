@@ -31,5 +31,5 @@ Python • AWS • IoT • Digital Twins • Distributed Systems • Machine Lea
 
 ## Contact
 
-- LinkedIn: https://linkedin.com/in/YOUR-LINK
-- Email: your@email.com
+- LinkedIn: [https://linkedin.com/in/sm-anowar-uddin]
+- Email: smanowar.uddin@gmail.com
