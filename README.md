@@ -1,16 +1,35 @@
-## Hi there 👋
+# S. M. Anowar Uddin
 
-<!--
-**a-uddin/a-uddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year BSc (Hons) Cloud Computing student at the University of East London, currently averaging 90%.
 
-Here are some ideas to get you started:
+Research focus:
+- Cloud-native digital twin architectures
+- Predictive digital twin systems
+- Semantic interoperability
+- Distributed IoT-cloud systems
+- Smart-city and smart-grid digital twins
+- Uncertainty-aware modelling for cyber-physical systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Publications
+
+- **Cloud-Native Digital Twin Architectures for Smart Cities: A Systematic Literature Review and Research Agenda**  
+  Accepted at IEEE ACDSA 2026
+
+- **A Platform-Agnostic Reference Architecture for Digital Twins in Urban Environmental Monitoring and Predictive Analytics**  
+  Under review at IEEE DTPI 2026
+
+- **A Sustainability-Oriented Governance Framework for AI-Enabled Smart City Digital Twins**  
+  Under review at IEEE TEMSMET 2026
+
+## Current Research Direction
+
+Currently exploring probabilistic and uncertainty-aware modelling for digital twin systems, including semantic interoperability and data-driven digital twins for cyber-physical infrastructure.
+
+## Technical Areas
+
+Python • AWS • IoT • Digital Twins • Distributed Systems • Machine Learning • Data Engineering • Cloud Computing
+
+## Contact
+
+- LinkedIn: https://linkedin.com/in/YOUR-LINK
+- Email: your@email.com
