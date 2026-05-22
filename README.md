@@ -14,6 +14,7 @@ Research focus:
 
 - **Cloud-Native Digital Twin Architectures for Smart Cities: A Systematic Literature Review and Research Agenda**  
   Accepted at IEEE ACDSA 2026
+  🔗 https://ieeexplore.ieee.org/document/11467763
 
 - **A Platform-Agnostic Reference Architecture for Digital Twins in Urban Environmental Monitoring and Predictive Analytics**  
   Under review at IEEE DTPI 2026
