@@ -1,6 +1,8 @@
 # S. M. Anowar Uddin
 
-Final-year BSc (Hons) Cloud Computing student at the University of East London, currently averaging 90%.
+My research interests centre on the reliability and interoperability of cloud-native digital twin systems, particularly how data quality and uncertainty affect predictive analysis and decision support.
+
+My BSc dissertation combined the design and implementation of an end-to-end AWS digital twin for urban air-quality monitoring with an empirical evaluation of data processing, system behaviour and next-hour NO₂ forecasting.
 
 Research focus:
 - Cloud-native digital twin architectures
